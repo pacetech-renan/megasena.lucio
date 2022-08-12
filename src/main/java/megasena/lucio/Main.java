@@ -46,7 +46,7 @@ public class Main {
 				JOptionPane.showMessageDialog(null, "Você acertou " + acertos.size() + " números e fez uma quadra. Números: " + acertos.toString());
 				break;
 			case 5:
-				JOptionPane.showMessageDialog(null, "Você acertou " + acertos.size() + " números e fez uma quinta. Números: " + acertos.toString());
+				JOptionPane.showMessageDialog(null, "Você acertou " + acertos.size() + " números e fez uma quina. Números: " + acertos.toString());
 				break;
 			case 6:
 				JOptionPane.showMessageDialog(null, "Você acertou " + acertos.size() + " números e ganhou na MEGA. Números: " + acertos.toString());
